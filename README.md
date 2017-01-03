@@ -36,4 +36,4 @@
 행운버거 골드  
 행운버거 칠리
 
-![](http://www.mcdonalds.co.kr/uploadFolder/promo/20161219/ko_pc_img01.jpg)
+![텍스트](http://www.mcdonalds.co.kr/uploadFolder/promo/20161219/ko_pc_img01.jpg)
